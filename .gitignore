@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw figma export (assets already processed into /public)
+/figma-to-html
+/figma-to-html.zip
+/INVERTIR-figma-to-html
+/OP-figma-to-html
+/ultima milla
+/images
+
+# raw working assets dropped at project root (already processed into /public)
+/*.png
+/*.jpg
+/*.jpeg
