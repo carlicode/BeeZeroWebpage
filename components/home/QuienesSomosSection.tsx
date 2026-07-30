@@ -3,7 +3,7 @@ import { Reveal } from "@/components/ui/Reveal";
 
 export function QuienesSomosSection() {
   return (
-    <section className="-mt-12 bg-white px-6 pb-16 pt-4 md:-mt-16 md:px-10 md:pb-20 md:pt-6">
+    <section className="bg-white px-6 pb-16 pt-16 md:px-10 md:pb-20 md:pt-24">
       <div className="mx-auto grid max-w-7xl items-center gap-10 lg:grid-cols-2 lg:gap-14">
         <Reveal from="left">
           <div className="relative mx-auto aspect-[4/3] w-full max-h-[300px] md:max-h-[340px]">
